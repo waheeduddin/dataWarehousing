@@ -14,7 +14,7 @@ Tableau dashboards were created to view each business concept individually and t
 ## data file (".mdb"): 
 microsfot access database file 
 ## Project report(".pdf" file): 
-explains the process and development steps in detail.
+explains the process and development steps in detail. Moreover it has results in it.
 
 # Reuslts:
    All questions were successfully answered. the screenshots of tableau dashboards are found in the project report. The business questions to be answered by the data were:
