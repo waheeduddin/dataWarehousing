@@ -10,7 +10,7 @@ Used Pentaho data integration tool. It performs ETL operations on the data so th
 ## data warehousing (".mwb" file): 
 A new relational database is fromed after the ETL opertions and is used in mySQL to make a live data base running on the SQL server.
 ## data visualization (".twb" file): 
-Tableau dashboards were created to view each business concept individually and to have an overview of the data.
+Tableau dashboards were created to view each business concept individually and to have an overview of the data. I used tableau 9.1
 ## data file (".mdb"): 
 microsfot access database file 
 ## Project report(".pdf" file): 
