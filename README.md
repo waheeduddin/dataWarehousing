@@ -17,9 +17,9 @@ microsfot access database file
 explains the process and development steps in detail. Moreover it has results in it.
 
 # Reuslts:
-   All questions were successfully answered. the screenshots of tableau dashboards are found in the project report. The business questions to be answered by the data were:
- •	Which vendor is able to make most sales through the sale services of the company?
-•	What is the average delivery time of sale orders that were made online?
-•	Which product category is most famous in different territories in the world?
-•	The stats of online sales vs. offline sales made by the company
+   All questions were successfully answered. the screenshots of tableau dashboards are found in the project report. The business questions to be answered by the data were: <br>
+ •	Which vendor is able to make most sales through the sale services of the company? <br>
+•	What is the average delivery time of sale orders that were made online? <br>
+•	Which product category is most famous in different territories in the world? <br>
+•	The stats of online sales vs. offline sales made by the company <br>
 
